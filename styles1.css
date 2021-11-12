@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+  }
+  header {
+    background-color: salmon;
+    padding: 10px 0 5px 10px;
+  }
+  #Bild {
+      
+
+  }
+
+  h1 {
+    color: powderblue;
+    margin-top: 0
+  }
+  h2 {
+      font-size: Helvetica;
+      font-style: oblique;
+      
+    
+  }
+  ul {
+    padding-left: 10px;
+  }
+  
+    .nav-items {background-color: aquamarine;
+        display: inline;
+        list-style: none;
+        padding: 0 5px  0;
+
+  }
+
+  .nav-a {
+    background-color: 
+    color: ivory;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .about-me {
+      background-color: limegreen;
+  }

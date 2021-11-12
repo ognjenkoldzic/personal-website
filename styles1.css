@@ -5,22 +5,29 @@ body{
   header {
     background-color: salmon;
     padding: 10px 0 5px 10px;
-  }
-  #Bild {
-      
+    text-align: center;
+    
+}
 
-  }
 
   h1 {
     color: powderblue;
-    margin-top: 0
+    margin-top: 0;
+    text-align: center;
   }
+  .imgArea {
+    text-align: center;
+  }
+  .img {
+     border-radius: 50%;
+    }
   h2 {
       font-size: Helvetica;
       font-style: oblique;
-      
-    
-  }
+    background-color:lightseagreen;
+    padding: 0 0 20px 0;
+    }
+
   ul {
     padding-left: 10px;
   }
@@ -29,7 +36,8 @@ body{
         display: inline;
         list-style: none;
         padding: 0 5px  0;
-
+        border: black solid 5px;
+    
   }
 
   .nav-a {
@@ -37,7 +45,10 @@ body{
     color: ivory;
     padding: 5px;
     text-decoration: none;
-  }
+    
+}
+  
+}
   .about-me {
-      background-color: limegreen;
+      background-color: ;
   }
